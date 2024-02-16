@@ -9,7 +9,7 @@
 [ИСР 1.8]()</br>
 [ИСР 1.9]()</br>
 ## Практика 1 курс ВСР.
-[ВСР 2.1]()</br>
-[ВСР 2.2]()</br>
-[ВСР 2.3]()</br>
-[ВСР 2.4]()</br>
+[ВСР 2.1](https://github.com/EPereverza/Herzen/blob/main/ПереверзаЕА_ВСР_2.1_1курс_РабочееМесто.pdf)</br>
+[ВСР 2.2](https://github.com/EPereverza/Herzen/blob/main/ПереверзаЕА_ВСР_2.2_1курс_Эл.Травма.pdf)</br>
+[ВСР 2.3](https://github.com/EPereverza/Herzen/blob/main/ПереверзаЕА_ВСР_2.3_1курс_ОСПредприятия.pdf)</br>
+[ВСР 2.4](https://github.com/EPereverza/Herzen/blob/main/ПереверзаЕА_ВСР_2.4_1курс_Хар-каПК.pdf)</br>
