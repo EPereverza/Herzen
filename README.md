@@ -13,4 +13,3 @@
 [ВСР 2.2 Помощь при электротравме](https://github.com/EPereverza/Herzen/blob/main/ПереверзаЕА_ВСР_2.2_1курс_Эл.Травма.pdf)</br>
 [ВСР 2.3 ОС предприятия](https://github.com/EPereverza/Herzen/blob/main/ПереверзаЕА_ВСР_2.3_1курс_ОСПредприятия.pdf)</br>
 [ВСР 2.4 Техническая характеристика ПК предприятия](https://github.com/EPereverza/Herzen/blob/main/ПереверзаЕА_ВСР_2.4_1курс_Хар-каПК.pdf)</br>
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNrmnsVc=/?moveToViewport=208,-583,1690,840&embedId=707125372626" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
