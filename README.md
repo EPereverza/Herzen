@@ -13,3 +13,4 @@
 [ВСР 2.2 Помощь при электротравме](https://github.com/EPereverza/Herzen/blob/main/ПереверзаЕА_ВСР_2.2_1курс_Эл.Травма.pdf)</br>
 [ВСР 2.3 ОС предприятия](https://github.com/EPereverza/Herzen/blob/main/ПереверзаЕА_ВСР_2.3_1курс_ОСПредприятия.pdf)</br>
 [ВСР 2.4 Техническая характеристика ПК предприятия](https://github.com/EPereverza/Herzen/blob/main/ПереверзаЕА_ВСР_2.4_1курс_Хар-каПК.pdf)</br>
+[ВСР 2.5 Создание Telegram бота при помощи онлайн сервиса](https://github.com/EPereverza/Herzen/blob/main/ПереверзаЕА_ВСР_2.5_СозданиеТГбота.pdf)</br>
