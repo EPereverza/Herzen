@@ -1,4 +1,5 @@
 # Работы по практике РГПУ им. А.И.Герцена
+## 1 Курс
 ## Приказ и отчет на практику 1 курс
 [Задание на практику 1 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ЗаданиеНаПрактику%20_1%20курс.pdf)</br>
 [Отчет по практике 1 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ОтчетПоПрактике_1%20курс.pdf)</br>
@@ -17,3 +18,9 @@
 [ВСР 2.3 ОС предприятия](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.3_1курс_ОСПредприятия.pdf)</br>
 [ВСР 2.4 Техническая характеристика ПК предприятия](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.4_1курс_Хар-каПК.pdf)</br>
 [ВСР 2.5 Создание Telegram бота при помощи онлайн сервиса](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.5_СозданиеТГбота.pdf)</br>
+<br>
+## 2 Курс
+## Приказ и отчет на практику 2 курс
+[Задание на практику 2 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/Задание_проектно-технологическая%20практика_ПереверзаЕА.pdf)</br>
+[Отчет по практике 2 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/Отчет_проектно-технологическая%20практика_ПереверзаЕА.pdf)</br>
+### Практика 2 курс ИСР
