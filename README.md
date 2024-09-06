@@ -24,9 +24,9 @@
 [Задание на практику 2 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/Задание_проектно-технологическая%20практика_ПереверзаЕА.pdf)</br>
 [Отчет по практике 2 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/Отчет_проектно-технологическая%20практика_ПереверзаЕА.pdf)</br>
 ### Практика 2 курс ИСР
-ИСР 1.1 <br>
-ИСР 1.1 <br>
-ИСР 1.1 <br>
+ИСР 1.1 Доклад по PyCharm<br>
+ИСР 1.2 Автоматизации установки и настройки прикладного ПО и утилит под ОС Windows<br>
+ИСР 1.3 Руководство пользователя YouGile<br>
 ### Практика 2 курс ВСР
 ВСР 2.1 <br>
 ВСР 2.2 <br>
