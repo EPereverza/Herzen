@@ -4,12 +4,12 @@
 [Задание на практику 1 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ЗаданиеНаПрактику%20_1%20курс.pdf)</br>
 [Отчет по практике 1 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ОтчетПоПрактике_1%20курс.pdf)</br>
 ### Практика 1 курс ИСР
-[ИСР 1.2 Аннотированный список источников философских проблем информатики.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.2_1курс_СписокФилософскихПроблемИнформатики.pdf)<br>
-[ИСР 1.3 Интеллект-карта по теме: "Основные этапы развития информатики".](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.3_1курс_ЭтапыРазвитияИнформатики.png)<br>
-[ИСР 1.4 ГОСТ и спецификации в сфере ИТ.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.4_1курс_гостИТ.pdf)<br>
-[ИСР 1.5 Физические упражнения для программиста.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.5_1курс_ФизУпрПрограммиста.pdf)<br>
-[ИСР 1.6 Инструкция по охране труда программиста.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.6_1курс_ОхранаТрудаПрограммиста.pdf)<br>
-[ИСР 1.7 Инженер-программиста (программист) должности](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.7_1курс_Инженер-ПрограммистДолжности.pdf)<br>
+[ИСР 1.2 Аннотированный список источников философских проблем информатики.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.2_1курс_СписокФилософскихПроблемИнформатики.pdf)</br>
+[ИСР 1.3 Интеллект-карта по теме: "Основные этапы развития информатики".](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.3_1курс_ЭтапыРазвитияИнформатики.png)</br>
+[ИСР 1.4 ГОСТ и спецификации в сфере ИТ.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.4_1курс_гостИТ.pdf)</br>
+[ИСР 1.5 Физические упражнения для программиста.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.5_1курс_ФизУпрПрограммиста.pdf)</br>
+[ИСР 1.6 Инструкция по охране труда программиста.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.6_1курс_ОхранаТрудаПрограммиста.pdf)</br>
+[ИСР 1.7 Инженер-программиста (программист) должности](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.7_1курс_Инженер-ПрограммистДолжности.pdf)</br>
 [ИСР 1.8 Автоматизированная  инсталляция программного обеспечения](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.8_1курс_ИнсталяцияОбеспечения.pdf)</br>
 [ИСР 1.9 Анализ обеспечения программиста](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.9_1курс_АнализОбеспечения.pdf)</br>
 ### Практика 1 курс ВСР
@@ -25,7 +25,8 @@
 [Отчет по практике 2 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/Отчет_проектно-технологическая%20практика_ПереверзаЕА.pdf)</br>
 ### Практика 2 курс ИСР
 ИСР 1.1 Доклад по PyCharm<br>
-ИСР 1.2 Автоматизации установки и настройки прикладного ПО и утилит под ОС Windows<br>
+ИСР 1.2 (Тренировка) Автоматизации установки и настройки прикладного ПО и утилит под ОС Windows</br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Практика в аудитории) Автоматизации установки и настройки прикладного ПО и утилит под ОС Windows</br>
 ИСР 1.3 Руководство пользователя YouGile<br>
 ### Практика 2 курс ВСР
 ВСР 2.1 Результаты использования Singularity<br>
