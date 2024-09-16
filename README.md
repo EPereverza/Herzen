@@ -4,31 +4,31 @@
 [Задание на практику 1 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ЗаданиеНаПрактику%20_1%20курс.pdf)</br>
 [Отчет по практике 1 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ОтчетПоПрактике_1%20курс.pdf)</br>
 ### Практика 1 курс ИСР
-[ИСР 1.2 Аннотированный список источников философских проблем информатики.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.2_1курс_СписокФилософскихПроблемИнформатики.pdf)</br>
-[ИСР 1.3 Интеллект-карта по теме: "Основные этапы развития информатики".](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.3_1курс_ЭтапыРазвитияИнформатики.png)</br>
-[ИСР 1.4 ГОСТ и спецификации в сфере ИТ.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.4_1курс_гостИТ.pdf)</br>
-[ИСР 1.5 Физические упражнения для программиста.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.5_1курс_ФизУпрПрограммиста.pdf)</br>
-[ИСР 1.6 Инструкция по охране труда программиста.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.6_1курс_ОхранаТрудаПрограммиста.pdf)</br>
-[ИСР 1.7 Инженер-программиста (программист) должности](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.7_1курс_Инженер-ПрограммистДолжности.pdf)</br>
-[ИСР 1.8 Автоматизированная  инсталляция программного обеспечения](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.8_1курс_ИнсталяцияОбеспечения.pdf)</br>
-[ИСР 1.9 Анализ обеспечения программиста](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.9_1курс_АнализОбеспечения.pdf)</br>
+ИСР 1.2 [Аннотированный список источников философских проблем информатики.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.2_1курс_СписокФилософскихПроблемИнформатики.pdf)</br>
+ИСР 1.3 [Интеллект-карта по теме: "Основные этапы развития информатики".](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.3_1курс_ЭтапыРазвитияИнформатики.png)</br>
+ИСР 1.4 [ГОСТ и спецификации в сфере ИТ.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.4_1курс_гостИТ.pdf)</br>
+ИСР 1.5 [Физические упражнения для программиста.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.5_1курс_ФизУпрПрограммиста.pdf)</br>
+ИСР 1.6 [Инструкция по охране труда программиста.](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.6_1курс_ОхранаТрудаПрограммиста.pdf)</br>
+ИСР 1.7 [Инженер-программиста (программист) должности](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.7_1курс_Инженер-ПрограммистДолжности.pdf)</br>
+ИСР 1.8 [Автоматизированная  инсталляция программного обеспечения](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.8_1курс_ИнсталяцияОбеспечения.pdf)</br>
+ИСР 1.9 [Анализ обеспечения программиста](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ИСР_1.9_1курс_АнализОбеспечения.pdf)</br>
 ### Практика 1 курс ВСР
-[ВСР 2.1 Рабочее место программиста](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.1_1курс_РабочееМесто.pdf)</br>
-[ВСР 2.2 Помощь при электротравме](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.2_1курс_Эл.Травма.pdf)</br>
-[ВСР 2.3 ОС предприятия](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.3_1курс_ОСПредприятия.pdf)</br>
-[ВСР 2.4 Техническая характеристика ПК предприятия](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.4_1курс_Хар-каПК.pdf)</br>
-[ВСР 2.5 Создание Telegram бота при помощи онлайн сервиса](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.5_СозданиеТГбота.pdf)</br>
+ВСР 2.1 [Рабочее место программиста](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.1_1курс_РабочееМесто.pdf)</br>
+ВСР 2.2 [Помощь при электротравме](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.2_1курс_Эл.Травма.pdf)</br>
+ВСР 2.3 [ОС предприятия](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.3_1курс_ОСПредприятия.pdf)</br>
+ВСР 2.4 [Техническая характеристика ПК предприятия](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.4_1курс_Хар-каПК.pdf)</br>
+ВСР 2.5 [Создание Telegram бота при помощи онлайн сервиса](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.5_СозданиеТГбота.pdf)</br>
 <br>
 ## 2 Курс
 ## Приказ и отчет на практику 2 курс
 [Задание на практику 2 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/Задание_проектно-технологическая%20практика_ПереверзаЕА.pdf)</br>
 [Отчет по практике 2 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/Отчет_проектно-технологическая%20практика_ПереверзаЕА.pdf)</br>
 ### Практика 2 курс ИСР
-ИСР 1.1 Доклад по PyCharm<br>
-ИСР 1.2 (Тренировка) Автоматизации установки и настройки прикладного ПО и утилит</br>
+ИСР 1.1 [Доклад по PyCharm](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/ИСР%201.1.pdf)<br>
+ИСР 1.2 [(Тренировка) Автоматизации установки и настройки прикладного ПО и утилит](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/ИСР%201.2.pdf)</br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Практика в аудитории) Автоматизации установки и настройки прикладного ПО и утилит</br>
 ИСР 1.3 Руководство пользователя YouGile<br>
 ### Практика 2 курс ВСР
-ВСР 2.1 Результаты использования Singularity<br>
-ВСР 2.2 <br>
-ВСР 2.3 <br>
+ВСР 2.1 [Результаты использования Singularity](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/ВСР%202.1.pdf)<br>
+ВСР 2.2 Классификация цветов Ирисов. Нейросеть на Julia<br>
+ВСР 2.3 [Команды для работы с Git в консоли](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/ВСР%202.3.pdf)<br>
