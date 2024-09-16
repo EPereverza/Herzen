@@ -31,4 +31,4 @@
 ### Практика 2 курс ВСР
 ВСР 2.1 [Результаты использования Singularity](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/ВСР%202.1.pdf)<br>
 ВСР 2.2 Классификация цветов Ирисов. Нейросеть на Julia<br>
-ВСР 2.3 [Команды для работы с Git в консоли](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/ВСР%202.3.pdf)<br>
+ВСР 2.3 [Консольные команды Git](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/ВСР%202.3.pdf)<br>
