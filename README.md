@@ -30,5 +30,5 @@
 ИСР 1.3 Руководство пользователя YouGile<br>
 ### Практика 2 курс ВСР
 ВСР 2.1 [Результаты использования Singularity](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/ВСР%202.1.pdf)<br>
-ВСР 2.2 Классификация цветов Ирисов. Нейросеть на Julia<br>
+ВСР 2.2 Классификационная задача на языке Julia<br>
 ВСР 2.3 [Консольные команды Git](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/ВСР%202.3.pdf)<br>
