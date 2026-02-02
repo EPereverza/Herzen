@@ -19,6 +19,7 @@
 ВСР 2.4 [Техническая характеристика ПК предприятия](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.4_1курс_Хар-каПК.pdf)</br>
 ВСР 2.5 [Создание Telegram бота при помощи онлайн сервиса](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_1st-course/ПереверзаЕА_ВСР_2.5_СозданиеТГбота.pdf)</br>
 <br>
+
 ## 2 Курс
 ## Приказ и отчет на практику 2 курс
 [Задание на практику 2 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/Задания_ПереверзаЕА.pdf)</br>
@@ -32,3 +33,15 @@
 ВСР 2.1 [Результаты использования Singularity](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/ВСР%202.1.pdf)<br>
 ВСР 2.2 [Классификационная задача на языке Julia](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/ВСР%202.2.ipynb)<br>
 ВСР 2.3 [Консольные команды Git](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_2nd-course/ВСР%202.3.pdf)<br>
+
+## 3 Курс
+## Приказ и отчет на практику 3 курс
+[Задание на практику 3 курс]()</br>
+[Отчет по практике 3 курс]()</br>
+### Практика 3 курс ИСР
+ИСР 1.1 </br>
+ИСР 1.2 </br>
+ИСР 1.3 </br>
+### Практика 3 курс ВСР
+ВСР 2.1 </br>
+ВСР 2.2 </br>
