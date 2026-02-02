@@ -1,4 +1,4 @@
-## 3 курс Производственная технологическая (проектно - технологическая) практика
+## 3 курс. Производственная технологическая (проектно - технологическая) практика
 ## Приказ и отчет на практику 3 курс
 [Задание на практику 3 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_3rd-course/Задание_3курс_ПереверзаЕА.pdf)</br>
 [Отчет по практике 3 курс](https://github.com/EPereverza/Herzen/blob/main/PereverzaEA_Practice_3rd-course/Отчет_3курс_ПереверзаЕА.pdf)</br>
